@@ -1,0 +1,15 @@
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/model/ReceiptItem.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/model/Receipt.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/service/BasketService.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/service/CustomerService.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/model/Product.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/service/ProductService.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/controller/ProductController.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/model/Basket.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/repository/BasketRepository.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/model/Customer.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/repository/ProductRepository.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/repository/CustomerRepository.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/controller/CustomersController.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/ElectronicStoreApplication.java
+/Users/kafaiwong/Desktop/ElectronicStore/src/main/java/com/example/ElectronicStore/controller/BasketsController.java
