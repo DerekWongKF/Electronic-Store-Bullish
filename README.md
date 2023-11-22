@@ -4,15 +4,12 @@ To run the application: `mvn spring-boot:run`
 
 To run tests: `mvn test`
 
-Test Coverage: 100% lines for BasketController and ProductController
-
 Library used: Spring Boot, Junit, Hibernate, JPA
 
 Database: H2
 
 Build automation: Maven
 
-Used synchronized for all write methods in services
 
 ## Major Logic Class:
 
